@@ -83,3 +83,4 @@ All the pre-processing scripts as well as the scripts for the automatic upload a
 - DHd2017: https://github.com/DHd-Verband/DHd-Abstracts-2017
 - DHd2018: https://github.com/DHd-Verband/DHd-Abstracts-2018
 - DHd2019: https://github.com/DHd-Verband/DHd-Abstracts-2019
+- DHd2020: https://github.com/DHd-Verband/DHd-Abstracts-2020
