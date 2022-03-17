@@ -1,10 +1,10 @@
-# DHd-Abstracts-2020
+# DHd-Abstracts-2022
 
 Contributions to the 8th DHd-Conference "Kulturen des digitalen Gedächtnisses" 2022 at the University of Potsdam and the Fachhochschule Potsdam, 7-11 March 2022
 
 Conference-Webite: https://www.dhd2022.de/
 
-Book of Abstracts: https://github.com/NinaSeemann/DHd2020-BoA / https://doi.org/10.5281/zenodo.6304590
+Book of Abstracts: https://github.com/ingoboerner/dhd2022_boa / https://doi.org/10.5281/zenodo.6304590
 
 
 
