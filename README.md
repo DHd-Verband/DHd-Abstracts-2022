@@ -23,6 +23,7 @@ All contributions and poster presentations are published on zenodo: https://zeno
 
 All the pre-processing scripts of all individual contributions will be available on GitHub soon.
 Scripts for the automatic upload and publication on Zenodo of all individual contributions: https://github.com/cceh/zenodup
+Scripts for the creation of individual PDF-files: https://github.com/PatrickHelling/DHd_BoA-separated
 
 # Documentation package_DHd2022.csv
 
