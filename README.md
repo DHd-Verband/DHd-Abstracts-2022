@@ -86,3 +86,6 @@ All contributions and poster presentations are published on zenodo: https://zeno
 - DHd2018: https://github.com/DHd-Verband/DHd-Abstracts-2018
 - DHd2019: https://github.com/DHd-Verband/DHd-Abstracts-2019
 - DHd2020: https://github.com/DHd-Verband/DHd-Abstracts-2020
+- DHd2023: https://github.com/DHd-Verband/DHd-Abstracts-2023
+- DHd2025: https://github.com/DHd-Verband/DHd-Abstracts-2025
+
